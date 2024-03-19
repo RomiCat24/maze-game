@@ -28,7 +28,7 @@ html, body {
 #mazeContainer #mazeCanvas {
     margin: 0;
     display: block;
-    border: solid 2px rgb(255, 0, 0);
+    border: solid 2px rgb(0, 0, 0);
     height: 400px;
 }
 input, select {
