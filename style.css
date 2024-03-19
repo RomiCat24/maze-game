@@ -10,7 +10,7 @@ html, body {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #fff;
+    background-color: #d68181;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -28,7 +28,7 @@ html, body {
 #mazeContainer #mazeCanvas {
     margin: 0;
     display: block;
-    border: solid 2px black;
+    border: solid 2px rgb(255, 0, 0);
     height: 400px;
 }
 input, select {
