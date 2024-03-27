@@ -458,22 +458,22 @@ function rand(max) {
           switch (direction) {
             case "up":
               check({
-                keyCode: 38
+                keyCode: 87
               });
               break;
             case "down":
               check({
-                keyCode: 40
+                keyCode: 83
               });
               break;
             case "left":
               check({
-                keyCode: 37
+                keyCode: 65
               });
               break;
             case "right":
               check({
-                keyCode: 39
+                keyCode: 68
               });
               break;
           }
